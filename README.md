@@ -60,7 +60,7 @@ By default, clients must pass their API key via the Authorization header. It mus
  
 ***Example***
  
- /api/v1/foods/alcoholfree/?keyword=cookie&max=300&min=200
+ */api/v1/foods/alcoholfree/?keyword=cookie&max=300&min=200*
  
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Django](https://www.djangoproject.com/) - Web Framework
