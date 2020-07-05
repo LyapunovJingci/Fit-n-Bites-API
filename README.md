@@ -1,14 +1,12 @@
 
 <h2 align="center">Fit-n-Bites API</h2>
 
-<div align="center">
+<div align="left">
 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
-
----
 
 ## 📝 Table of Contents
 - [About](#about)
