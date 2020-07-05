@@ -1,5 +1,5 @@
 
-<h2 align="center">Fit-n-Bites API</h2>
+<h1 align="left">Fit-n-Bites API</h1>
 
 <div align="left">
 
