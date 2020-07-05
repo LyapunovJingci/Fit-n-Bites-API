@@ -1,0 +1,1 @@
+web: gunicorn fit_n_bite_project.wsgi --log-file -
