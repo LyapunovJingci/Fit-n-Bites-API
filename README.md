@@ -61,7 +61,32 @@ By default, clients must pass their API key via the Authorization header. It mus
 ***Example***
  
  */api/v1/foods/alcoholfree/?keyword=cookie&max=300&min=200*
- 
+## 👨‍💻 Unit List ##
+
+Nutrient | Unit
+| :------------ | :-------------
+Energy | kCal
+Protein | g
+Carbohydrate | g
+Sugar | g
+Fiber | g
+Alcohol | g
+Vitamin C | mg
+Vitamin A | mcg
+Vitamin B12 | mcg
+Vitamin D | mcg
+Calcium | mg
+Phosphorus | mg
+Magnesium | mg
+Iron | mg
+Zinc | mg
+Copper | mg
+Selenium | mcg
+Potassium | mg
+Sodium | mg
+Theobromine | mg
+Caffeine | mg
+
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [Django](https://www.djangoproject.com/) - Web Framework
 - [Django REST Framework](https://www.django-rest-framework.org/) - API Framework
